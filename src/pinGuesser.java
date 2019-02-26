@@ -6,10 +6,10 @@ public class pinGuesser {
 		
 		String pin="";
 		Scanner scan = new Scanner(System.in);
-        pinGenerator Generatore= new pinGenerator("0000");
-        long startTime,endTime;
+        	pinGenerator Generatore= new pinGenerator("0000");
+        	long startTime,endTime;
 
-        //fine variabili
+        	//fine variabili
 
 
 		
