@@ -10,8 +10,6 @@ public class pinGuesser {
         	long startTime,endTime;
 
         	//fine variabili
-
-
 		
 		System.out.println("****4 digits pin guesser****");
 		do {
